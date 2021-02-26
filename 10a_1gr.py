@@ -1,26 +1,26 @@
-Eldar Filimonov
-print(2+2*2);
+# Eldar Filimonov
+print(2+2*2)*2
 
-1 Arhipenko Sofja
+# 1 Arhipenko Sofja
 
-2 Berga Laura
+# 2 Berga Laura
 
-3 Filimonovs Eldars
+# 3 Filimonovs Eldars
 
-4 Gaiðute Ksenija
+# 4 Gaiðute Ksenija
 
-5 Gorniks Arturs
+# 5 Gorniks Arturs
 
-6 Guþonoka Jevgeòija
+# 6 Guþonoka Jevgeòija
 
-7 Isaèenko Aleksandrs
+# 7 Isaèenko Aleksandrs
 
-8 Komaðilo Dmitrijs
+# 8 Komaðilo Dmitrijs
 
-9 Lukjanèikova Darja
+# 9 Lukjanèikova Darja
 
-10 Minalto Jana
+# 10 Minalto Jana
 
-11 Obrazcova Marija
+# 11 Obrazcova Marija
 
-12 Ðvacka Marija
+# 12 Ðvacka Marija
